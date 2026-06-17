@@ -73,3 +73,6 @@ pentest-results/
 # Stryker mutation testing
 .stryker-tmp/
 packages/image-engine/reports/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
